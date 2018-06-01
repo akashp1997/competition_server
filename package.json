@@ -1,0 +1,16 @@
+{
+  "name": "competition-server",
+  "version": "1.0.0",
+  "description": "Mimic of the Roboboat Competition Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/srmasv-coding/competition-server.git"
+  },
+  "author": "Akash Purandare",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/srmasv-coding/competition-server#readme"
+}

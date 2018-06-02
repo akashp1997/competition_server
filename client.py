@@ -21,7 +21,13 @@ def heartbeat():#timestamp, challenge, latitude, longitude):
 	r = requests.post("%s/heartbeat/%s/%s" % (host, course, teamid), json=data)
 	print(r.text)
 
-#def start():
+def start():
+	r = requests.post("%s/run/start/%s/%s" % (host, course, teamid))
+	print(r.text)
 
+def end():
+	r = requests.post("%s/run/end/%s/%s" % (host, course, teamid))
+	print(r.text)
 
-heartbeat()
+end()
+

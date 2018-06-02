@@ -1,1 +1,5 @@
 {"timestamp":"20170306061030","challenge":"gates","position":{"datum":"WGS84","latitude":40.689249,"longitude":-74.0445}}
+{"timestamp":"20170306061030","challenge":"gates","position":{"datum":"WGS84","latitude":40.689249,"longitude":-74.0445}}
+{"timestamp":"20170306061030","challenge":"gates","position":{"datum":"WGS84","latitude":40.689249,"longitude":-74.0445}}
+{"timestamp":"20170306061030","challenge":"gates","position":{"datum":"WGS84","latitude":40.689249,"longitude":-74.0445}}
+{"timestamp":"20170306061030","challenge":"gates","position":{"datum":"WGS84","latitude":40.689249,"longitude":-74.0445}}
